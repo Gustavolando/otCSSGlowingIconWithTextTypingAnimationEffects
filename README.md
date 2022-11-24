@@ -4,7 +4,7 @@ This is a nice project with cool CSS effects.
 
 I practiced here background-blend-mode multiply, filters, gradients, animations and shadows.
 
-Funny HTML and CSS only code.
+Glowing HTML and CSS only code.
 
 This was taken from the Online Tutorials [videos](https://www.youtube.com/watch?v=Dw1ucY0TOrY)
 
